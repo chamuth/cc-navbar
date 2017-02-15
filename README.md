@@ -28,6 +28,11 @@ cc-navbar is a Navigation Bar bootstrapping option for modern websites. By follo
 	</div>
 </nav>
 ```
+4. Add all of your content inside a div with the class of container-body (refer to the example.html)
+```html
+<div class="container-body">
+</div>
+```
 
 #MODIFICATIONS FOR YOUR PROJECT
 
