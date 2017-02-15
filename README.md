@@ -13,22 +13,20 @@ cc-navbar is a Navigation Bar bootstrapping option for modern websites. By follo
 3. Add this code to the top of your body tag (where a nav should be)
 ```html
 <nav class="nav">
-
-		<div class="container">
-			<div class="nav-content">
-				<a href="http://www.google.com">Ninponix</a>
-
-				<div class="nav-links">
-          <!--here add the links, they must be <a> tags-->
-					<a href="#">Home</a>
-					<a href="#">Downloads</a>
-					<a href="#">About Us</a>
-					<a href="#">Contact Us</a>
-				</div>
-				
+	<div class="container">
+		<div class="nav-content">
+			<a href="http://www.google.com">Ninponix</a>
+			
+			<div class="nav-links">
+				<!--here add the links, they must be <a> tags-->
+				<a href="#">Home</a>
+				<a href="#">Downloads</a>
+				<a href="#">About Us</a>
+				<a href="#">Contact Us</a>
 			</div>
 		</div>
-	</nav>
+	</div>
+</nav>
 ```
 
 #MODIFICATIONS FOR YOUR PROJECT
